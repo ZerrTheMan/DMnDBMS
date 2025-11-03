@@ -1,7 +1,7 @@
 # DMnDBMS
 Data models &amp; Database Management Systems
 
-# Recording Time Management System
+# Game Records Management System
 
 ## ФИО
 
